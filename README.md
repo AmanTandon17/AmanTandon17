@@ -60,18 +60,18 @@ I am a tech enthusiast 💻 who loves programming and also exploring about Web D
 
 	
 	
-<a href="https://github.com/IamRiya-kumari">
-<img height="114em"src="https://github-readme-stats.vercel.app/api?username=IamRiya-kumari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/AmanTandon17">
+<img height="114em"src="https://github-readme-stats.vercel.app/api?username=AmanTandon17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamRiya-kumari&layout=compact&langs_count=6&theme=algolia"/>
-<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=IamRiya-kumari&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
+<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmanTandon17&layout=compact&langs_count=6&theme=algolia"/>
+<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanTandon17&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
 
 
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=IamRiya-kumari&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=AmanTandon17&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 
