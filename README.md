@@ -1,4 +1,4 @@
-## Hola, I'm [Aman Tandon]👋
+## Hola, I'm Aman Tandon👋
 
 I am a tech enthusiast 💻 who loves programming and also exploring about Web Developer and Machine Learning!
 
