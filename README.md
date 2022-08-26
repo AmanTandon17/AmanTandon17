@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**AmanTandon17/AmanTandon17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hola, I'm [Aman Tandon](https://iamriya-kumari.github.io/Portfolio_riya/)👋
 
 I am a tech enthusiast 💻 who loves programming and also exploring about Web Developer and Machine Learning!
